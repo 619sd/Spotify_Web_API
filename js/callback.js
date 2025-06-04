@@ -1,5 +1,5 @@
 const clientId = '4340319ae0c4474292cdcd5a01fa141e';
-const redirectUri = 'https://619sd.github.io/Spotify_Web_API/callback';
+const redirectUri = '/Spotify_Web_API/';
 
 const code = new URLSearchParams(window.location.search).get('code');
 const codeVerifier = localStorage.getItem('code_verifier');
