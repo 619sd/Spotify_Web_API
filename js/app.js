@@ -1,5 +1,5 @@
 const clientId = '4340319ae0c4474292cdcd5a01fa141e';
-const redirectUri = 'http://10.76.20.240:80/callback';
+const redirectUri = 'https://619sd.github.io/Spotify_Web_API/callback';
 const scopes = [
   'user-read-playback-state',
   'user-modify-playback-state',
